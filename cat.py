@@ -63,3 +63,4 @@ print("sanity check after reshaping:" + str(train_set_x_flat[0:5, 0]))
 train_set_x = train_set_x_flat / 255
 test_set_x = test_set_x_flat / 255
 print(train_set_x[0:5, 0])
+liuyinghui
